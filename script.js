@@ -3,3 +3,4 @@ function test(){
     console.log('This is the bug Fix');
     console.log('this is the second bug Fix');
 }
+// new change
